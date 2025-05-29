@@ -131,3 +131,5 @@ ttk.Button(root, text="Delete Selected", command=delete_item).pack(pady=10)
 
 view_items()
 root.mainloop()
+
+
